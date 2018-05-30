@@ -1,0 +1,3 @@
+[18-May-2016 10:52:51 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in /home/losiberi/public_html/userCake/models/config.php on line 8
+[18-May-2016 10:59:46 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in /home/losiberi/public_html/userCake/models/config.php on line 8
+[18-May-2016 14:52:22 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in /home/losiberi/public_html/userCake/models/config.php on line 8

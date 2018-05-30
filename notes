@@ -1,0 +1,10 @@
+* ctrl the duplication of the name of the product photo
+* add "Active" field in product table, means if the article is displayed or no
+*if a category doesnt have product it is not shown on the left menu (done)
+*try coka.jpeg
+*specify which comma : . or ,
+*click the item should done by ajax
+*edit product foto
+*upload foto message check
+*talk about shipping fee
+*rabat code
